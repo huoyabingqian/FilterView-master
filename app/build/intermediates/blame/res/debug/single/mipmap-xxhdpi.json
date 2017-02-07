@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_order_down_select.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/ic_order_down_select.png"
+    },
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_order_up_select.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/ic_order_up_select.png"
+    },
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_order_true.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/ic_order_true.png"
+    },
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_order_down_normal.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/ic_order_down_normal.png"
+    },
+    {
+        "merged": "/Users/ZhaoBing/Downloads/FilterView-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/bg_order_filter.png",
+        "source": "/Users/ZhaoBing/Downloads/FilterView-master/app/src/main/res/mipmap-xxhdpi/bg_order_filter.png"
+    }
+]
